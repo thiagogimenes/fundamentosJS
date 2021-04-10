@@ -23,7 +23,7 @@ const greeting = returnHi()
 console.log(greeting)
 console.log(returnHi())
 
-// funação que recebe parametro e retorna alguma coisa.
+// função que recebe parametro e retorna alguma coisa.
 function returnHiTo(name) {
     return `Hi ${name}!`
 }
