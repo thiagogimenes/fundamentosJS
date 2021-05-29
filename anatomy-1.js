@@ -1,17 +1,17 @@
-// Function declaration
+// Function declaration - forma tradicional de criar funções no JS
 
 // função que não recebe nenhum parametro e não retorna nada
 function sayHello() {
     console.log('Hello!')
 }
-
+//necessário invocar a função 
 sayHello()
 
 //função que recebe parametro, mas não retorna nada
 function sayHelloTo(name) {
     console.log(`Hello ${name}!`)
 }
-
+//valor com $ está interpolando a invocação
 sayHelloTo('Mike')
 
 // função que não recebe parametro, mas retorna alguma coisa.
