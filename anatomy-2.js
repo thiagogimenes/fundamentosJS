@@ -2,10 +2,11 @@
 (function (a, b, c){
     return a + b + c
 })
-//*quanto utilizado Function expression, acaba-se usando Anonymous Function
+//*Quando utilizado Function expression, acaba-se usando Anonymous Function
 //Function expression
 
 //atribuindo função à uma variável
+//Function expression
 const sum = function (a,b) {
     return a + b
 }
