@@ -1,5 +1,4 @@
 //Anonymous function
-
 //IIFE - Immediately Invoked Function Expression
 (function (a, b, c) {
     let x = 3
